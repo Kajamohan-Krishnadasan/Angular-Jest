@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login Component Login Error 1`] = `
+<div
+  id="root0"
+>
+  <label
+    for="username"
+  >
+    user Name: 
+  </label>
+  <input
+    class="ng-untouched ng-valid ng-dirty"
+    id="username"
+    name="username"
+    placeholder="Enter User Name"
+    type="username"
+  />
+  <label
+    for="pwd"
+  >
+    Password:
+  </label>
+  <input
+    class="ng-untouched ng-valid ng-dirty"
+    id="pwd"
+    name="pswd"
+    placeholder="Enter Password"
+    type="password"
+  />
+  <button
+    type="submit"
+  >
+    Submit
+  </button>
+  
+</div>
+`;

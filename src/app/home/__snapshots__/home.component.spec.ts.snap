@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeComponent verify html 1`] = `
+<app-home
+  cities={[Function Array]}
+  homeService={[Function HomeServiceStub]}
+>
+  <ul>
+    <li>
+      <p
+        apphighlight="yellow"
+        style="background-color: yellow;"
+      >
+         Italian 
+      </p>
+      <img
+        alt="Italian Trulli"
+        src="assets/aaron-burden-3UoB1ftLJjk-unsplash.jpg"
+      />
+    </li>
+    <li>
+      <p
+        apphighlight="yellow"
+        style="background-color: yellow;"
+      >
+         Sri lanka 
+      </p>
+      <img
+        alt="sri lanka"
+        src="assets/4k-ultra-hd-motivational-focus-bs4nnk5bt18sgwi4.jpg"
+      />
+    </li>
+  </ul>
+</app-home>
+`;
