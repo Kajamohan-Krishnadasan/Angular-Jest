@@ -122,8 +122,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 - **node --inspect-brk node_modules/jest/bin/jest.js --runInBand --watch src**
 
-
 ### debug in vscode
 
 - add launch.json in .vscode folder
-- 
